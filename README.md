@@ -12,8 +12,8 @@ beginner programmers about various programming technologies.
 
 ## Features
 In this system an Admin can perform all CRUD operations including:
-1.Adding staff
-2.Deleting staff
+1.Adding staff <br>
+2.Deleting staff <br>
 3.Updating Staff
 4.Manage Staff Payments
 5.Upload staff photo
